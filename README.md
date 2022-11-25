@@ -1,6 +1,6 @@
 # TestThirdPerson
 
-Voilà le rendu. 
+Voilà le rendu.  Il a été fait sur Unreal 4.27
 Actuellement, il y a 2 triggers pour monter et descendre l'ascenseur.
 Il est possible de rajouter des étages en rajoutant un ArrowComponent nommé "floor X" successivement.
 
